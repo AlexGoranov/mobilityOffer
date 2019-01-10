@@ -19,7 +19,8 @@ public class Configuration {
 	 * access this file and that all login data is tranfered in an encrypted way
 	 * (e.g. SSL).
 	 */
-	private static final String PASSWORD = "Google123";
+	/* PUT YOUR PASSWORD */
+	private static final String PASSWORD = "";
 
 	public static String getServer() {
 		return SERVER;
